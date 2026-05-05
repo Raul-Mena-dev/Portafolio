@@ -16,7 +16,7 @@ export const siteContent = {
       'Full stack developer and computer engineer focused on creating web applications that connect clean interfaces, organized business logic, and maintainable systems for real users.',
     stats: [
       { value: 'Full Stack', label: 'Frontend and backend development' },
-      { value: '2', label: 'Portfolio projects featured here' },
+      { value: '3', label: 'Portfolio projects featured here' },
       { value: 'React + APIs', label: 'Current product-building focus' },
     ],
     primaryActions: [
@@ -75,6 +75,17 @@ export const siteContent = {
         github: 'https://github.com/Raul-Mena-dev/mi_inventario',
       },
       metrics: ['Product and stock records', 'Ticket history flow', 'PDF generation and export'],
+    },
+    {
+      name: 'Impresion 3D Pagina',
+      year: '2026',
+      description:
+        'Website project focused on presenting 3D printing services with a clear interface, product-oriented sections, and a frontend structure prepared for future content growth.',
+      stack: ['TypeScript', 'Frontend', 'Responsive UI'],
+      links: {
+        github: 'https://github.com/Raul-Mena-dev/impresion3d-pagina',
+      },
+      metrics: ['3D printing service page', 'Product-focused presentation', 'Responsive frontend structure'],
     },
   ],
   experience: [
